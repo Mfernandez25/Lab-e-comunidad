@@ -101,7 +101,6 @@ body{
 }
 .metodologia img{
 	margin-top: 20px;
-
 }
 /*SE TERMINO METODOLOGÍA*/
 .servicios{
@@ -138,7 +137,6 @@ body{
 	font-size: 20px;
 }
 /*SEGUNDA PARTE*/
-
 .proyectos{
 	background-color: #5D8039;
 	padding:20px;
@@ -151,6 +149,9 @@ body{
 	padding:10px;
 	border: 1px solid #fff;
 	margin:10px;
+}
+.proyectos .fotos:hover{
+	width: 100%;
 }
 .proyecto1,.proyecto2{
 	width:450px;
@@ -170,7 +171,6 @@ body{
 	width: 200px;
 	padding-top: 30px;
 }
-
 .equipo .redes li{
 	display: inline-block;
 	margin-top: 20px;
@@ -179,7 +179,6 @@ body{
 	width: 30px;
 	margin: 5px;
 }
-
 /*empieza el slider*/
 .blog{
 	background-image: url(../img/fondo2.jpg);
@@ -198,7 +197,6 @@ body{
 	background-color: transparent;
 	left: 5px;
 }
-
 .blog .btnsiguiente{
 	position: relative;
 	bottom: 210px;
@@ -206,7 +204,6 @@ body{
 	border: none;
 	background-color: transparent;
 }
-
 .slider{
 	width: 90%;
 	margin: auto;
@@ -230,7 +227,6 @@ body{
 	border-top-right-radius:50px;
 	border-bottom-left-radius:50px;
 	border:1px solid rgba(0, 0, 0, 0.3);
-
 }
 .slider h4,.descripcion{
 	text-align: justify;
@@ -266,7 +262,6 @@ body{
 	background-image: url(../img/fondo2.jpg);
 	padding:5px;
 }
-
 .text-justify{
 	text-align: justify;
 }
